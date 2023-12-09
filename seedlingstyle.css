@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS document */
+
+body {
+    background-color: darkolivegreen;
+    padding-top: 5px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+}
+
+.p-2 {
+    width: 600px;
+}
+
+.collapse {
+    text-align: center;
+}

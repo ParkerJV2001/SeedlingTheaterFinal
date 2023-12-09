@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS document */
+
+body {
+    background-color: darkolivegreen;
+    padding-top: 5px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+
+}
+
+.collapse {
+    text-align: center;
+}
+
+body {
+    padding-top: 56px;
+}
+
+.card {
+    transition: transform 0.2s;
+    background-color: darkseagreen;
+    color: darkolivegreen;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-body {
+    color: darkslategrey;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: lightgoldenrodyellow;
+    color: darkolivegreen;
+}
